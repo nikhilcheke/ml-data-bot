@@ -5,18 +5,25 @@
 - good morning
 - good evening
 - hey there
+- hey bot
+- hello bot
+- hi bot
 
 ## intent:thanks
 - Thank you so much
 - Thanks
 - Thank you
 - Thanks very much
+- Okay, thanks
+- thanks a lot
 
 ## intent:goodbye
 - bye
 - goodbye
 - see you around
 - see you later
+- bbye
+- see you soon
 
 ## intent:affirm
 - yes
@@ -24,6 +31,9 @@
 - of course
 - that sounds good
 - correct
+- absolutely
+- yep
+- yayy
 
 ## intent:deny
 - no
@@ -32,6 +42,8 @@
 - don't like that
 - no way
 - not really
+- not a correct way
+- nope
 
 ## intent:mood_great
 - perfect
@@ -42,6 +54,8 @@
 - I am feeling very good
 - I am great
 - I'm good
+- wow
+- cool
 
 ## intent:mood_unhappy
 - sad
@@ -54,12 +68,14 @@
 - not very good
 - extremely sad
 - so sad
+- horrible
 
 ## intent:bot_challenge
 - are you a bot?
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+- are you a robot?
 
 ## intent: inform
 - [titanic](dataset)
